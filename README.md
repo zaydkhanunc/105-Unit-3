@@ -1,14 +1,37 @@
-# 105-Unit-3-Creating a Repository on Github
+# The Impact of Unemployment and Median Household Income on General Health
 
-The following is a repository that contains a sample dataset on County Public Health, and then contains a python notebook with detailed instructions and code on how to create a new susbset of that data.
-The python notebook contains a guideline that is easy to follow and created for people with little to no experince with python and Google Colabs. 
 
-Provenance (where did this data/code come from)
-The dataset called CountyPublicHealth2014-2015, is available online and was provided to me by Professor Gotzler.
-I wrote the code myself and referenced the the pandas1, pandas2, and python_basic notebooks provided by Professor Gotzler. 
+**The following repository was created for Professor Gotzlers English 105 class in the fall of 2024 at the University of North Carolina.**
 
-Purpose:
-This data is for County Public Heallth, and the notebook contains instructions on how to create a subset of the data that focuses on how unemployment and median household income impact general health. 
+The repository contains a raw data csv file, and a modified subset of that data as a .csv file. 
 
-Potential:
-This repository was created to provide a streamlined, and reproducible workflow for analyzing public health data. It aims to enable professionals, students, and people with little coding experience to peform data analysis without complex setups. 
+It also contains a python notebook that provides detailed instructions on how to create the modified data subset. 
+
+## Purpose of Repository:
+
+The purpose of this repository is to highlight the impact socioeconomic factors such Unemployment and Median Household Income on General Health.
+
+The impact of general health is measured by 3 indicators.
+
+* Premature deaths
+* Adult Obesity
+* Poor Mental Health Days
+  
+The following data housed in the repository could be used by public health and public professionals but may also be used by students or people with an interest in the socioeconomic determinants of health. 
+
+
+## Where did this data/code come from?
+The data was provided by Pressor Gotzler on Canvas and is available on the web. The raw data titled CountyHealthData_2014-2015.csv can also be found in the online repository. 
+
+As for the code, I wrote it myself and referenced the pandas1, pandas2, and python_basic notebooks provided by Professor Gotzler. 
+
+## What can this data be used for?
+
+* Firstly, the data can be used by public health organisation to propose legislation and policies that tackle these economic inequalities so that community health may approve across the board
+
+* Data analysts may employ the dataset to decipher hidden patterns and generalisation visualisations that highlight the relationship between socioeconomic factors and health indicators.
+
+* Academic institutions, primarily schools and universities may use this dataset in their curriculum to teach students how to world with real world data, and derive proper insights from the data. 
+
+
+
