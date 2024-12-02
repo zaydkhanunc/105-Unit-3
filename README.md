@@ -3,7 +3,8 @@
 
 **The following repository was created for Professor Gotzlers English 105 class in the fall of 2024 at the University of North Carolina.**
 
-The repository contains a raw data csv file, and a [modified subset](Data/County_Data_Unemployment_and_Income (1).csv) of that data as a .csv file. 
+The repository contains a raw data csv file, and a  [modified subset](Data/County_Data_Unemployment_and_Income(1).csv)
+ of that data as a .csv file. 
 
 It also contains a python notebook that provides detailed instructions on how to create the modified data subset. Here is a link to [python notebook](Process_Documentation.ipynb)
 
