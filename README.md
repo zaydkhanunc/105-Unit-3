@@ -21,7 +21,7 @@ The following data housed in the repository could be used by public health and p
 
 
 ## Where did this data/code come from?
-The data was provided by Professor Gotzler on Canvas and is available on the web. The raw data titled CountyHealthData_2014-2015.csv [CountyHealthData_2014-2015](Data/CountyHealthData_2014-2015.csv) can also be found in the online repository. 
+The data was provided by Professor Gotzler on Canvas and is available on the web. The raw data titled CountyHealthData_2014-2015.csv [CountyHealthData_2014-2015](https://drive.google.com/file/d/1pmJBPU2b_Af5TGPbtX_MY6zUAaorLGae/view?usp=drive_link) can also be found in the online repository. 
 
 As for the code, I wrote it myself and referenced the pandas1, pandas2, and python_basic notebooks provided by Professor Gotzler. 
 
